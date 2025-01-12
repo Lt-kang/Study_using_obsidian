@@ -1,4 +1,4 @@
-# 모델명
+# Mean Squared Error
 
 ## 정의
 * 

@@ -1,12 +1,13 @@
 [[Accuracy]]
 [[F1-Score]]
 [[Macro_f1-score]]
+[[(작성중)Micro_f1-score]]
 [[Recall]]
-[[(작성중)Precision]]
+[[Precision]]
 
 MAE
-MSE
-[[(작성중)RMSE]]
+[[(작성중)MSE]]
+[[RMSE]]
 MAPE
 MPE
 [[(작성중)R2]]
