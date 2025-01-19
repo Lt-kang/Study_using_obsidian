@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "54d7f02ff0f4f275",
+        "id": "abac1c6d2f6c61fb",
         "type": "tabs",
         "children": [
           {
-            "id": "83e6f86fd3369b9d",
+            "id": "6a26be44062bb206",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ai/Evaluation_matrix/(작성중)MSE.md",
+                "file": "Ai/Ai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(작성중)MSE"
+              "title": "Ai"
             }
           }
         ]
@@ -158,44 +158,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83e6f86fd3369b9d",
+  "active": "352664846c580c1a",
   "lastOpenFiles": [
-    "Ai/Evaluation_matrix/(작성중).md",
-    "Ai/Evaluation_matrix/Macro_f1-score.md",
-    "Ai/Evaluation_matrix/F1-score.md",
+    "Math/Math.md",
+    "Python/Python.md",
+    "Python-issue/Python-issue.md",
+    "Python-library/Python-library.md",
+    "Statistics/Definition_Statistics.md",
+    "Statistics-graph/Statistics-graph.md",
+    "Temp.md",
+    "Untitled.canvas",
+    "Untitled 3.canvas",
+    "Statistics/Definition/Kurtosis.md",
+    "Statistics/Definition/Skewness.md",
+    "Statistics/Definition/Z-Score.md",
+    "Statistics/Definition/Outlier.md",
+    "Statistics/Definition/Descriptive Statistics.md",
+    "Statistics/Definition",
+    "Statistics/새 폴더",
+    "Ai/Evaluation_matrix/Definition/Recall.md",
+    "Ai/Evaluation_matrix/Definition/Precision.md",
+    "Ai/Evaluation_matrix/Definition/Macro_f1-score.md",
+    "Ai/Evaluation_matrix/Definition/F1-score.md",
+    "Ai/Evaluation_matrix/Definition/Accuracy.md",
+    "Ai/Evaluation_matrix/Definition/(작성중)R2.md",
+    "Ai/Evaluation_matrix/Definition/(작성중)MSE.md",
+    "Ai/Evaluation_matrix/Definition/(작성중)Micro_f1-score.md",
+    "Ai/Evaluation_matrix/Definition/(작성중).md",
+    "Ai/Evaluation_matrix/Definition/RMSE.md",
+    "Ai/Ai.md",
     "Ai/Evaluation_matrix/Evaluation_matrix.md",
-    "Ai/Evaluation_matrix/Accuracy.md",
-    "Ai/Evaluation_matrix/(작성중)R2.md",
-    "Ai/Evaluation_matrix/(작성중)Micro_f1-score.md",
-    "Ai/Evaluation_matrix/Recall.md",
-    "Ai/Evaluation_matrix/RMSE.md",
-    "Ai/Evaluation_matrix/(작성중)MSE.md",
-    "Ai/DL/cycleGAN/cycleGAN.md",
+    "Evaluation-matrix.md",
+    "LT.KANG.md",
+    "Untitled 2.canvas",
+    "Ai/Evaluation_matrix/Definition",
+    "Ai/Evaluation_matrix/새 폴더",
+    "Untitled 1.canvas",
+    "Statistics/ETC",
+    "Statistics/Untitled",
     "Ai/DL/cycleGAN/image.png",
     "Ai/DL/cycleGAN/Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks.pdf",
-    "Python/Python.md",
-    "Statistics-graph/Statistics-graph.md",
-    "LT.KANG.md",
-    "Untitled.canvas",
-    "2025-01-13.md",
-    "Untitled.md",
-    "Ai/Evaluation_matrix/Precision.md",
-    "Ai/Ai.md",
-    "Temp.md",
-    "(작성중)R^2.md",
     "Ai/Ai",
-    "Welcome.md",
-    "create a link.md",
-    "Ai/Evaluation_matrix/평가지표.md",
     "Statistics",
-    "Python",
-    "Python-library",
-    "Python-issue",
-    "Math",
-    "Life",
-    "Ai/Evaluation_matrix/Template.md",
-    "Ai/Evaluation_matrix/(작성중)Recall.md",
-    "Ai/ML",
-    "Ai/Evaluation_matrix"
+    "Python"
   ]
 }

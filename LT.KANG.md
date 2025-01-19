@@ -6,4 +6,4 @@
 [[Python]]
 [[Python-issue]]
 [[Python-library]]
-[[Statistics]]
+[[Definition_Statistics]]
