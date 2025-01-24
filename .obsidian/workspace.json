@@ -19,6 +19,7 @@
               },
               "icon": "lucide-file",
               "title": "Ai"
+<<<<<<< HEAD
             }
           },
           {
@@ -33,6 +34,8 @@
               },
               "icon": "lucide-file",
               "title": "(작성중)R2"
+=======
+>>>>>>> 3264356db5a8d502ada9a858fcbc1fc048bd32c4
             }
           }
         ],
@@ -173,6 +176,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "8deaa29208120e93",
   "lastOpenFiles": [
     "Ai/Evaluation_matrix/Definition/(작성중)MSE.md",
@@ -186,6 +190,10 @@
     "Web/새 폴더",
     "Untitled",
     "Web",
+=======
+  "active": "352664846c580c1a",
+  "lastOpenFiles": [
+>>>>>>> 3264356db5a8d502ada9a858fcbc1fc048bd32c4
     "Math/Math.md",
     "Python/Python.md",
     "Python-issue/Python-issue.md",
@@ -208,13 +216,32 @@
     "Ai/Evaluation_matrix/Definition/F1-score.md",
     "Ai/Evaluation_matrix/Definition/Accuracy.md",
     "Ai/Evaluation_matrix/Definition/(작성중)R2.md",
+<<<<<<< HEAD
     "Ai/Evaluation_matrix/Definition/(작성중).md",
+=======
+    "Ai/Evaluation_matrix/Definition/(작성중)MSE.md",
+    "Ai/Evaluation_matrix/Definition/(작성중)Micro_f1-score.md",
+    "Ai/Evaluation_matrix/Definition/(작성중).md",
+    "Ai/Evaluation_matrix/Definition/RMSE.md",
+    "Ai/Ai.md",
+    "Ai/Evaluation_matrix/Evaluation_matrix.md",
+    "Evaluation-matrix.md",
+    "LT.KANG.md",
+>>>>>>> 3264356db5a8d502ada9a858fcbc1fc048bd32c4
     "Untitled 2.canvas",
     "Ai/Evaluation_matrix/Definition",
     "Ai/Evaluation_matrix/새 폴더",
     "Untitled 1.canvas",
     "Statistics/ETC",
     "Statistics/Untitled",
+<<<<<<< HEAD
     "Ai/DL/cycleGAN/image.png"
+=======
+    "Ai/DL/cycleGAN/image.png",
+    "Ai/DL/cycleGAN/Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks.pdf",
+    "Ai/Ai",
+    "Statistics",
+    "Python"
+>>>>>>> 3264356db5a8d502ada9a858fcbc1fc048bd32c4
   ]
 }
