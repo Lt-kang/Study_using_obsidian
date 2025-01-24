@@ -1,59 +1,41 @@
 {
   "main": {
-    "id": "ffb1d33397aa36f7",
+    "id": "d346052bf5b4a36a",
     "type": "split",
     "children": [
       {
-        "id": "abac1c6d2f6c61fb",
+        "id": "5d35b2d5645e0b8e",
         "type": "tabs",
         "children": [
           {
-            "id": "6a26be44062bb206",
+            "id": "f510fccec3fd15d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ai/Ai.md",
+                "file": "Web/fastapi/Client-Side Rendering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ai"
-<<<<<<< HEAD
-            }
-          },
-          {
-            "id": "8deaa29208120e93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ai/Evaluation_matrix/Definition/(작성중)R2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(작성중)R2"
-=======
->>>>>>> 3264356db5a8d502ada9a858fcbc1fc048bd32c4
+              "title": "Client-Side Rendering"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0893bbd07b93a29c",
+    "id": "82e0adf2f9c8d830",
     "type": "split",
     "children": [
       {
-        "id": "59b0e3b888ed93ab",
+        "id": "5561a5b2f1b52de2",
         "type": "tabs",
         "children": [
           {
-            "id": "352664846c580c1a",
+            "id": "96c2342e4dec1fad",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,7 +47,7 @@
             }
           },
           {
-            "id": "cc0eee7d70341e75",
+            "id": "8739b81e642f766d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -82,7 +64,7 @@
             }
           },
           {
-            "id": "0fe82a7b7ac334d5",
+            "id": "ff03112fcb558094",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,22 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 300
   },
   "right": {
-    "id": "56ccb43d42813f90",
+    "id": "0282adc36c9396d5",
     "type": "split",
     "children": [
       {
-        "id": "a7b1b688df629fc4",
+        "id": "4a40da29339853d0",
         "type": "tabs",
         "children": [
           {
-            "id": "46ff7c475a66311d",
+            "id": "52e9f505f58bf00c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web/fastapi/Client-Side Rendering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,24 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Client-Side Rendering"
             }
           },
           {
-            "id": "15e5b97d5f862194",
+            "id": "41c608fb879c176e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web/fastapi/Client-Side Rendering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Client-Side Rendering"
             }
           },
           {
-            "id": "3021e319ac6802bc",
+            "id": "018b843aa5af67c9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,13 +134,15 @@
             }
           },
           {
-            "id": "c74f041fcc574334",
+            "id": "69dd3e79d071f883",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Web/fastapi/Client-Side Rendering.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Client-Side Rendering"
             }
           }
         ]
@@ -176,72 +162,18 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "8deaa29208120e93",
+  "active": "f510fccec3fd15d5",
   "lastOpenFiles": [
-    "Ai/Evaluation_matrix/Definition/(작성중)MSE.md",
-    "Ai/Evaluation_matrix/Definition/(작성중)Micro_f1-score.md",
-    "Ai/Evaluation_matrix/Definition_Evaluation-matrix.md",
-    "Web/Web.md",
-    "Web/GET_POST_PUT_DELETE.md",
     "Web/fastapi/fastapi.md",
-    "Ai/Ai.md",
-    "Web/fastapi",
-    "Web/새 폴더",
-    "Untitled",
-    "Web",
-=======
-  "active": "352664846c580c1a",
-  "lastOpenFiles": [
->>>>>>> 3264356db5a8d502ada9a858fcbc1fc048bd32c4
-    "Math/Math.md",
-    "Python/Python.md",
-    "Python-issue/Python-issue.md",
-    "Python-library/Python-library.md",
-    "Statistics/Definition_Statistics.md",
-    "Statistics-graph/Statistics-graph.md",
-    "Temp.md",
-    "Untitled.canvas",
-    "Untitled 3.canvas",
-    "Statistics/Definition/Kurtosis.md",
-    "Statistics/Definition/Skewness.md",
-    "Statistics/Definition/Z-Score.md",
-    "Statistics/Definition/Outlier.md",
-    "Statistics/Definition/Descriptive Statistics.md",
-    "Statistics/Definition",
-    "Statistics/새 폴더",
-    "Ai/Evaluation_matrix/Definition/Recall.md",
-    "Ai/Evaluation_matrix/Definition/Precision.md",
-    "Ai/Evaluation_matrix/Definition/Macro_f1-score.md",
-    "Ai/Evaluation_matrix/Definition/F1-score.md",
-    "Ai/Evaluation_matrix/Definition/Accuracy.md",
-    "Ai/Evaluation_matrix/Definition/(작성중)R2.md",
-<<<<<<< HEAD
-    "Ai/Evaluation_matrix/Definition/(작성중).md",
-=======
-    "Ai/Evaluation_matrix/Definition/(작성중)MSE.md",
-    "Ai/Evaluation_matrix/Definition/(작성중)Micro_f1-score.md",
-    "Ai/Evaluation_matrix/Definition/(작성중).md",
-    "Ai/Evaluation_matrix/Definition/RMSE.md",
-    "Ai/Ai.md",
-    "Ai/Evaluation_matrix/Evaluation_matrix.md",
-    "Evaluation-matrix.md",
-    "LT.KANG.md",
->>>>>>> 3264356db5a8d502ada9a858fcbc1fc048bd32c4
-    "Untitled 2.canvas",
-    "Ai/Evaluation_matrix/Definition",
-    "Ai/Evaluation_matrix/새 폴더",
-    "Untitled 1.canvas",
-    "Statistics/ETC",
-    "Statistics/Untitled",
-<<<<<<< HEAD
-    "Ai/DL/cycleGAN/image.png"
-=======
-    "Ai/DL/cycleGAN/image.png",
-    "Ai/DL/cycleGAN/Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks.pdf",
-    "Ai/Ai",
-    "Statistics",
-    "Python"
->>>>>>> 3264356db5a8d502ada9a858fcbc1fc048bd32c4
+    "Web/fastapi/Jinja2.md",
+    "Web/fastapi/Client-Side Rendering.md",
+    "Web/fastapi/Server-Side Rendering.md",
+    "Web/Search Engine Optimization.md",
+    "Web/fastapi/jinja2_include_extends.md",
+    "Web/fastapi/Response Model.md",
+    "Web/fastapi/Template.md",
+    "Web/GET_POST_PUT_DELETE.md",
+    "Web/status_code.md",
+    "Web/Web.md"
   ]
 }
