@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/fastapi/Client-Side Rendering.md",
+                "file": "Web/fastapi/Dependency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Client-Side Rendering"
+              "title": "Dependency"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/fastapi/Client-Side Rendering.md",
+                "file": "Web/Search Engine Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Client-Side Rendering"
+              "title": "Backlinks for Search Engine Optimization"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/fastapi/Client-Side Rendering.md",
+                "file": "Web/Search Engine Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Client-Side Rendering"
+              "title": "Outgoing links from Search Engine Optimization"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/fastapi/Client-Side Rendering.md"
+                "file": "Web/Search Engine Optimization.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Client-Side Rendering"
+              "title": "Outline of Search Engine Optimization"
             }
           }
         ]
@@ -164,16 +164,28 @@
   },
   "active": "f510fccec3fd15d5",
   "lastOpenFiles": [
+    "Web/fastapi/(작성중)Depends.md",
+    "Web/fastapi/Dependency.md",
     "Web/fastapi/fastapi.md",
-    "Web/fastapi/Jinja2.md",
-    "Web/fastapi/Client-Side Rendering.md",
-    "Web/fastapi/Server-Side Rendering.md",
-    "Web/Search Engine Optimization.md",
-    "Web/fastapi/jinja2_include_extends.md",
-    "Web/fastapi/Response Model.md",
-    "Web/fastapi/Template.md",
-    "Web/GET_POST_PUT_DELETE.md",
+    "Web/fastapi/(작성중)요청_컨텍스트.md",
+    "Web/Web.md",
+    "Web/(작성중)GraphQL.md",
     "Web/status_code.md",
-    "Web/Web.md"
+    "Web/(작성중)Search-Engine-Optimization.md",
+    "Web/(작성중)REST_API.md",
+    "Web/GET_POST_PUT_DELETE.md",
+    "Web/fastapi/Template.md",
+    "Web/fastapi/Server-Side-Rendering.md",
+    "Web/fastapi/Response-Model.md",
+    "Web/fastapi/(작성중)jinja2_include_extends.md",
+    "Web/fastapi/Jinja2.md",
+    "Web/fastapi/(작성중)GraphQL.md",
+    "Web/fastapi/Client-Side-Rendering.md",
+    "Statistics/Statistics.md",
+    "Statistics/Definition/Descriptive_Statistics.md",
+    "Statistics/Definition_Statistics.md",
+    "README.md",
+    "test.md",
+    "Web/Search Engine Optimization.md"
   ]
 }

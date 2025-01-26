@@ -55,7 +55,7 @@ ___
 ```
 
 * include와 extends
-	* [[jinja2_include_extends]]
+	* [[(작성중)jinja2_include_extends]]
 
 ## 예시 코드
 

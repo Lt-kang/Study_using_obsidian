@@ -7,7 +7,7 @@
 ## SSR 특징
 * 빠른 초기 로딩
 	* 브라우저는 서버에서 이미 완성된 html을 받으므로, 초기 페이지 로딩이 빠름.
-	* SEO([[Search Engine Optimization]])에 유리하여 검색 엔진에 쉽게 노출될 수 있음.
+	* SEO([[(작성중)Search-Engine-Optimization]])에 유리하여 검색 엔진에 쉽게 노출될 수 있음.
 * SEO에 유리
 	* 서버에서 완성된 HTML이 제공되므로 검색 엔진이 페이지의 콘텐츠를 쉽게 크롤링하고 
 	  인덱싱 할 수 있음.
@@ -38,4 +38,4 @@
 
 # CSR
 SSR(서버 사이드 렌더링)의 반대 개념으로
-클라이언트 사이드 렌더링([[Client-Side Rendering]])을 의미함.
+클라이언트 사이드 렌더링([[Client-Side-Rendering]])을 의미함.
