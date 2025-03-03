@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5d35b2d5645e0b8e",
+        "id": "9724cf67cf24fdce",
         "type": "tabs",
         "children": [
           {
-            "id": "f510fccec3fd15d5",
+            "id": "d13a90097477a5dd",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -36,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -158,8 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f510fccec3fd15d5",
+  "active": "d13a90097477a5dd",
   "lastOpenFiles": [
+    "Ai/DL/NLP/NLP.md",
+    "ETC/MAC 주소.md",
+    "ETC/Docker-compose.md",
+    "ETC/Docker.md",
+    "Web/status_code.md",
+    "Ai/SQL/SQL.md",
+    "Ai/SQL",
+    "Ai/DL/cycleGAN/cycleGAN.md",
+    "Ai/DL/NLP",
+    "Ai/DL/DL.md",
+    "Ai/DL/cycleGAN/image.png",
+    "Ai/Ai.md",
     "Ai/Evaluation_matrix/Definition_Evaluation-matrix.md",
     "Ai/ML/ML_test.md",
     "Ai/Evaluation_matrix/Definition/Definition_test.md",
@@ -176,15 +189,6 @@
     "Ai/Evaluation_matrix/Definition/F1-score.md",
     "Web/fastapi/Dependency.md",
     "Web/fastapi/(작성중)Depends.md",
-    "Web/fastapi/fastapi.md",
-    "Web/fastapi/(작성중)요청_컨텍스트.md",
-    "Web/Web.md",
-    "Web/(작성중)GraphQL.md",
-    "Web/status_code.md",
-    "Web/(작성중)Search-Engine-Optimization.md",
-    "Web/(작성중)REST_API.md",
-    "Web/GET_POST_PUT_DELETE.md",
-    "Web/fastapi/Template.md",
-    "Web/fastapi/Server-Side-Rendering.md"
+    "Web/fastapi/fastapi.md"
   ]
 }
