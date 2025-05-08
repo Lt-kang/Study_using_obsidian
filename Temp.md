@@ -167,3 +167,10 @@ torch.mm
 torch.chunk vs split
 torch.Tensor.grad_fn
 크롤링 vs 스크래핑 vs 파싱
+
+
+RAG embedding
+BGE (BAAI General Embedding)
+GTE (General Text Embedding)
+Instructor
+LLM dataset과 RAG documents 간의 도메인이 극히 다를 경우 시도해볼 만한 가치가 있음. (HyDE)
