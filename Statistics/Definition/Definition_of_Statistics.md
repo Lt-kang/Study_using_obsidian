@@ -1,4 +1,4 @@
-[[Outlier]] (극단치)
+[Outlier]] (극단치)
 [[Skewness]]
 [[Kurtosis]]
 [[Z-Score]]

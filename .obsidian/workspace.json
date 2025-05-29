@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "01518bf933e36c3b",
+        "id": "a02f85eeb9dacbac",
         "type": "tabs",
         "children": [
           {
-            "id": "af1827a001b711cb",
+            "id": "58e10d1a9e0314ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ai/LLM/Embedding.md",
+                "file": "paper/Attention_is_all_you_need/Attention Is All You Need.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Embedding"
+              "title": "Attention Is All You Need"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0282adc36c9396d5",
@@ -163,49 +164,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af1827a001b711cb",
+  "active": "58e10d1a9e0314ee",
   "lastOpenFiles": [
-    "LLM_Evolutionary_Tree.png",
-    "Ai/NLP/Tokenizer_list.md",
-    "Ai/LLM/Embedding.md",
-    "Ai/NLP/Tokenizer.md",
-    "정리 필요/프로젝트 설계에 대해서.md",
-    "Ai/LLM/Fine-tuning.md",
-    "Ai/LLM",
-    "Ai/NLP/OOV.md",
-    "Temp.md",
-    "Ai/NLP",
-    "README.md",
-    "논문 리뷰할 때 중요하게 확인해야 하는 항목 7가지.md",
-    "Python/Python-library/Python-library.md",
+    "Pasted image 20250529141925.png",
+    "paper/Attention_is_all_you_need/Attention Is All You Need.md",
+    "Ai/Model/LSTM.md",
+    "Ai/Model/GRU.md",
+    "paper/attention mechanism.md",
+    "paper/Untitled",
+    "Ai/Model/CNN.md",
+    "Ai/Model/RNN.md",
+    "Ai/Model",
+    "Ai/Untitled.md",
+    "Ai/Evaluation_matrix/BLEU.md",
+    "paper/Attention_is_all_you_need/1706.03762v7.pdf",
     "paper/LORA=LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS.md",
-    "ETC/Euler angles.md",
-    "Untitled 1.md",
-    "test.md",
-    "LT.KANG.md",
-    "Statistics/Definition/Skewness.md",
+    "paper/Attention Is All You Need.md",
+    "paper/Attention_is_all_you_need",
+    "paper/새 폴더",
+    "논문 리뷰할 때 중요하게 확인해야 하는 항목 7가지.md",
+    "Ai/NLP/NLP_processing.md",
+    "Ai/NLP/Tokenizer.md",
+    "Ai/NLP/OOV(Out of Vocabulary).md",
+    "Statistics/Likelihood.md",
+    "Statistics/Statistics.md",
+    "Statistics/Statistics-graph/Statistics-graph.md",
     "Statistics/Definition/Z-Score.md",
+    "Statistics/Definition/Skewness.md",
     "Statistics/Definition/Outlier.md",
     "Statistics/Definition/Kurtosis.md",
-    "Statistics/Definition/Definition_of_Statistics.md",
     "Statistics/Definition/Descriptive_Statistics.md",
-    "Web/fastapi/Template.md",
-    "Web/fastapi/(작성중)jinja2_include_extends.md",
-    "Web/fastapi/(작성중)GraphQL.md",
-    "Web/fastapi/(작성중)Depends.md",
+    "Statistics/Definition/Definition_of_Statistics.md",
+    "Math",
+    "documents_translate/FastMCP tutorial/2_Servers/1_FastMCP Server.md",
+    "documents_translate/FastMCP tutorial/1_Get Started/3_Quickstart.md",
+    "LLM_Evolutionary_Tree.png",
+    "Ai/LLM",
+    "Ai/NLP",
     "Python/Python-library/typing",
     "정리 필요",
     "src/Pasted image 20250401012309.png",
-    "paper",
-    "ETC/issue",
-    "ETC/PaddleOCR_doc/Model_Training",
-    "ETC/PaddleOCR_doc",
-    "ETC/SQLD",
     "src/Pasted image 20250303180433.png",
     "src/Pasted image 20250303182508.png",
     "Pasted image 20250303180005.png",
     "src/Pasted image 20250303175851.png",
-    "src",
     "Ai/DL/cycleGAN/image.png"
   ]
 }

@@ -24,7 +24,7 @@ embedding layer에 입력하기 이전 token단위로 구분하기 위함임.
 
 ## BPE (Byte-Pair Encoding)
 * 자주 등장하는 쌍을 병합
-* 장점: [[OOV]] 해결
+* 장점: [[OOV(Out of Vocabulary)]] 해결
 * 단점: 의미 기준이 아닌 문자 빈도 기반
 
 
@@ -65,5 +65,5 @@ embedding layer에 입력하기 이전 token단위로 구분하기 위함임.
 
 ## Word-level Tokenizer
 * 띄어쓰기 기준으로 tokenize함. (고전적인 방식)
-* [[OOV]] 문제가 심각함.
+* [[OOV(Out of Vocabulary)]] 문제가 심각함.
 
