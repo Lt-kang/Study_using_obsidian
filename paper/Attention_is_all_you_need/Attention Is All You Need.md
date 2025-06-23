@@ -6,7 +6,7 @@
 
 두 가지 기계 번역 과제에 대한 실험에서, Transformer는 성능 면에서 더 우수할 뿐만 아니라
 병렬화가 용이하고 학습에 필요한 시간 또한 크게 감소하였습니다.
-Transformer는 WMT 2014 영어-독일어 번역 과제에서 [[BLEU]] 점수 28.4를 기록하였습니다.(이는 기존 최고 성능 대비 2점 이상 높은 결과 입니다.)
+Transformer는 WMT 2014 영어-독일어 번역 **과제에서** [[BLEU]] 점수 28.4를 기록하였습니다.(이는 기존 최고 성능 대비 2점 이상 높은 결과 입니다.)
 WMT 2014 영어-프랑스어 번역 과제에서는 단일 모델 기준 [[BLEU]] 점수 41.8을 달성했으며, 이는 8개의 GPU에서 3.5일 동안 학습한 결과로, 기존 최고 모델 대비 훨씬 적은 학습 비용을 요구합니다.
 
 또한 Transformer가 영어 구문 분석(English constituency parsing) 등 다른 작업에서도 대규모 및 제한된 데이터 모두에서 잘 일반화되는 것을 보였습니다.
@@ -58,7 +58,7 @@ ___
 	  - Transformer는 RNN/CNN과 달리 입력 시퀀스의 순서(위치) 정보를 직접 알 수 없음.
 		  - RNN > 순차적 처리
 		  - CNN > 커널 이동
-		  - Transformer > attension 메커니즘으로 한 번에 병렬 연산
+		  - Transformer > attention 메커니즘으로 한 번에 병렬 연산
 	  - 그래서, 토큰의 "순서" 정보를 인공적으로 embedding vector에 더해줌 (Positional Encoding)
 	  - 각 토큰 embedding vector에 pos에 대한 고유값(sin/cos function)을 더함
 	  - 이로써 모델이 "첫 번째 단어", "세 번째 단어"처럼 위치 정보를 파악할 수 있게 됨.
