@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fast-api/code_analysis_2.md",
+                "file": "좋은 프로젝트란.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "code_analysis_2"
+              "title": "좋은 프로젝트란"
             }
           }
         ]
@@ -165,9 +165,11 @@
   },
   "active": "58e10d1a9e0314ee",
   "lastOpenFiles": [
+    "ETC/Clean_architecture_with_python.md",
+    "좋은 프로젝트란.md",
+    "fast-api/code_analysis_2.md",
     "Python/classmethod.md",
     "Python/Python.md",
-    "fast-api/code_analysis_2.md",
     "fast-api/code_analysis_1.md",
     "Web/GET_POST_PUT_DELETE.md",
     "fast-api/question_index.md",
@@ -197,8 +199,6 @@
     "paper/새 폴더",
     "논문 리뷰할 때 중요하게 확인해야 하는 항목 7가지.md",
     "Ai/NLP/NLP_processing.md",
-    "Ai/NLP/Tokenizer.md",
-    "Ai/NLP/OOV(Out of Vocabulary).md",
     "Math",
     "Ai/LLM",
     "Ai/NLP",
