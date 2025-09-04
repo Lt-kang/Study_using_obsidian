@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "362aca0eb90a5b04",
+        "id": "78a0a606bcc647f5",
         "type": "tabs",
         "children": [
           {
-            "id": "6d710ca2c8425fa7",
+            "id": "7f4fe84fa2312837",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ETC/LUT.md",
+                "file": "Statistics/Probability_Distribution/Continuous Distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LUT"
+              "title": "Continuous Distribution"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0282adc36c9396d5",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ai/LLM/Embedding.md",
+                "file": "Statistics/Probability_Distribution/Continuous Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Embedding"
+              "title": "Backlinks for Continuous Distribution"
             }
           },
           {
@@ -165,50 +164,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d710ca2c8425fa7",
+  "active": "7f4fe84fa2312837",
   "lastOpenFiles": [
-    "ETC/MAC 주소.md",
-    "ETC/LUT.md",
-    "Web/fastapi/Dependency.md",
-    "Web/fastapi/fastapi.md",
-    "Web/fastapi/(작성중)요청_컨텍스트.md",
-    "Web/react/기초.md",
-    "Web/vanila_js/기초.md",
-    "Web/(작성중)REST_API.md",
-    "Web/(작성중)Search-Engine-Optimization.md",
-    "Web/react",
-    "Statistics/통계개론(개념).md",
-    "Web/vanila_js",
-    "Statistics/통계개론(정의).md",
-    "Statistics/확률개론.md",
-    "Statistics/Definition/Definition_of_Statistics.md",
-    "Design_pattern/TDD/Mocking.md",
-    "Design_pattern/TDD/TDD.md",
-    "Design_pattern/ORM.md",
-    "정리 필요/pytest.md",
-    "ETC/asyncio.md",
-    "ETC/AWS  service 간단 정리.md",
+    "Statistics/Probability_Distribution/Discrete Distribution.md",
+    "Statistics/Probability_Distribution/Continuous Distribution.md",
+    "Statistics/Probability_Distribution/Continuous Distribution Type/F Distribution.md",
+    "Statistics/Probability_Distribution/Continuous Distribution Type/t Distribution.md",
+    "Statistics/Probability_Distribution/Continuous Distribution Type/chi-squared Distribution.md",
+    "Statistics/Random Variable/Cumulative Distribution Function.md",
+    "Statistics/Probability_Distribution/Continuous Distribution Type/Exponential Distribution.md",
+    "Statistics/Probability_Distribution/probability_distribution_outline.md",
+    "Statistics/Random Variable/Probability Density Function.md",
+    "[Random Variable.md",
+    "Statistics/Probability_Distribution/Continuous Distribution Type/Uniform Distribution.md",
+    "Statistics/Probability_Distribution/Continuous Distribution Type",
+    "Statistics/Probability_Distribution/Discrete Distribution Type/Poisson Distribution.md",
+    "Statistics/Probability_Distribution/Discrete Distribution Type/Binomial Distribution.md",
+    "Statistics/Probability_Distribution/Discrete Distribution Type/Bernoulli Distribution.md",
+    "Statistics/Random Variable/Random Variable.md",
+    "Statistics/Random Variable/Probability Mass Function.md",
+    "Statistics/Random Variable",
+    "Statistics/Probability_Distribution/Discrete Distribution Type",
+    "ETC/Docker.md",
     "ETC/Clean_architecture_with_python.md",
-    "Temp.md",
-    "README.md",
+    "ETC/LUT.md",
     "src/Pasted image 20250401012309.png",
     "src/Pasted image 20250303182508.png",
     "src/Pasted image 20250303180433.png",
     "src/Pasted image 20250303175851.png",
-    "Design_pattern/DDD.md",
-    "Design_pattern/SOLID.md",
-    "Design_pattern/TDD/Stub.md",
-    "Design_pattern/TDD/Fake.md",
+    "Pasted image 20250529141925.png",
+    "README.md",
+    "LLM_Evolutionary_Tree.png",
+    "Statistics/Probability_Distribution/Continuous Distribution Type/Normal Distribution.md",
+    "Statistics/self-QA.md",
+    "Statistics/Likelihood.md",
+    "Statistics/Probability_Distribution",
+    "Statistics/확률개론.md",
+    "ETC/MAC 주소.md",
+    "Web/fastapi/Dependency.md",
+    "Web/react",
+    "Web/vanila_js",
     "Design_pattern/TDD",
     "Design_pattern",
-    "LLM_Evolutionary_Tree.png",
     "fast-api",
-    "Pasted image 20250529141925.png",
     "paper/Attention_is_all_you_need/1706.03762v7.pdf",
-    "paper/Untitled",
-    "Ai/Model",
-    "paper/Attention_is_all_you_need",
-    "paper/새 폴더",
     "Pasted image 20250303180005.png",
     "Ai/DL/cycleGAN/image.png"
   ]
