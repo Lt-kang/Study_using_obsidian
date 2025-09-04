@@ -12,7 +12,7 @@
 
 ## 예시
 ### 간단한 사용법
-`asser`문을 그대로 사용
+`assert`문을 그대로 사용
 ```
 def test_add():
     assert 1 + 2 == 3

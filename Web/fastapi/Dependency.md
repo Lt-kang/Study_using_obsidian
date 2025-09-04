@@ -38,7 +38,6 @@ def fetch_data_from_db(db_connection):
 	* 의존성을 주입받는 구조에서는 Mock 객체를 사용해 테스트를 쉽게 작성할 수 있음.
 
 
-
 # FastAPI에서의 의존성 주입 예시 코드
 
 ## 기본적인 의존성 주입
@@ -58,6 +57,18 @@ async def read_items(api_key: str = Depends(get_api_key)):
 ```
 * `get_api_key`: 의존성 함수
 * `Depends(get_api_key`: api_key 매개변수에 이 함수의 반환값이 주입됨.
+
+**[끝맺음 말]**  
+- 시간이 제법 흐른 점
+- 애초에 제가 위에 적은 내용이 전부 다 저의 착각일 수 있다는 점
+- 이런 대화마저도 상대방이 부담스러울 수 있다는 점 등
+
+상대방에 대한 조심스러움과 신중함으로 인해  
+많은 생각이 스쳐 지나가 시간이 다소 흘렀지만  
+그럼에도 불구하고  
+만약이라도 서로 간의 오해가 있다면 오해를 푸는 것이,  
+그게 아니라면 그냥 저 혼자 과한 생각에 빠진 해프닝으로 끝내는 것이.제가 생각하는 바른 방향이라 판단하기에  
+이렇게 글을 남깁니다.
 
 
 ## 데이터베이스 연결 의존성
@@ -82,8 +93,6 @@ async def read_users(db: dict = Depends(get_db)):
 * `yield`: db 세션 객체를 반환하고 요청 완료 후 리소스 해제를 수행함
 * `depends(get_db)`: 의존성 주입 부분
 
-
-
 ## 인증/권한
 ```
 from fastapi import FastAPI, Depends, HTTPException
@@ -103,7 +112,6 @@ async def protected_route(token: str = Depends(verify_token)):
 ```
 * `verify_token`: 인증을 수행하는 의존성 함수
 * `Depends(verify_token))`: 의존성 함수인 `verify_token`의 인자값은 FastAPI [[(작성중)Depends]] 함수를 통해 자동으로 [[(작성중)요청_컨텍스트]]에서 추출하여 전달함.
-
 
 
 ## 다중 의존성
