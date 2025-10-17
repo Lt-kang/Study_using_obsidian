@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "78a0a606bcc647f5",
+        "id": "5a1ae1c8333067a0",
         "type": "tabs",
         "children": [
           {
-            "id": "7f4fe84fa2312837",
+            "id": "0dc2f9ae4b4be899",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/3.etc/GraphQL.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "GraphQL"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0282adc36c9396d5",
@@ -165,53 +160,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f4fe84fa2312837",
+  "active": "0dc2f9ae4b4be899",
   "lastOpenFiles": [
-    "Web/3.etc/RESTful API.md",
+    "web기획 템플릿.md",
+    "src/Pasted image 20251011044642.png",
+    "src/Pasted image 20250529141925.png",
+    "src/LLM_Evolutionary_Tree.png",
+    "react 템플릿.md",
+    "Web/temp.md",
     "Web/3.etc/GraphQL.md",
     "Web/3.etc/status_code.md",
     "Web/3.etc/GET_POST_PUT_DELETE.md",
-    "Web/Web.md",
-    "Temp.md",
-    "README.md",
-    "react 템플릿.md",
-    "web기획 템플릿.md",
-    "Ai/LangChain/LangChain-mathod/Runnable_class.md",
-    "Ai/LangChain/LangChain-mathod/message_class.md",
-    "Ai/LangChain/LangChain-mathod/prompts_class.md",
-    "Ai/LangChain/LangChain-mathod/history_class.md",
-    "Ai/LangChain/LangChain-mathod/memory_class.md",
-    "Ai/LangChain/LangChain-mathod/ETC.md",
-    "Ai/LangChain/LangChain-mathod",
-    "Ai/LangChain",
-    "fast-api/code_analysis_1.md",
-    "Web/2.be/fastapi/question_index.md",
-    "Web/2.be/fastapi/code_analysis_2.md",
-    "Web/2.be/fastapi/code_analysis_1.md",
-    "fast-api/code_analysis_2.md",
-    "fast-api/question_index.md",
-    "ETC/프로젝트 설계에 대해서.md",
-    "ETC/pytest.md",
-    "Web/temp.md",
+    "Web/3.etc/RESTful API.md",
     "Web/3.etc/(작성중)Search-Engine-Optimization.md",
     "Web/3.etc",
     "Web/2.be/fastapi/Template.md",
+    "Web/2.be/fastapi/Server-Side-Rendering.md",
+    "Web/2.be/fastapi/question_index.md",
+    "Web/2.be/fastapi/Response-Model.md",
+    "Web/2.be/fastapi/Jinja2.md",
+    "Web/2.be/fastapi/fastapi.md",
+    "Web/2.be/fastapi/Dependency.md",
+    "Web/2.be/fastapi/code_analysis_2.md",
+    "Web/2.be/fastapi/code_analysis_1.md",
+    "Web/2.be/fastapi/(작성중)요청_컨텍스트.md",
+    "Web/2.be/fastapi/(작성중)jinja2_include_extends.md",
+    "Web/2.be/fastapi/Client-Side-Rendering.md",
+    "Web/2.be/fastapi/(작성중)GraphQL.md",
+    "Web/2.be/fastapi/(작성중)Depends.md",
     "Web/2.be/fastapi",
     "Web/2.be",
+    "Web/1.fe/css/tailwindcss.md",
+    "Web/1.fe/react/기초.md",
+    "Web/1.fe/vanila_js/기초.md",
+    "Web/1.fe/vite 기본 프로젝트 구조.md",
     "Web/1.fe/react",
     "Web/1.fe/vanila_js",
     "Web/1.fe/css",
     "Web/1.fe",
-    "Web/3etc",
-    "src/Pasted image 20251011044642.png",
-    "src/Pasted image 20250529141925.png",
-    "src/LLM_Evolutionary_Tree.png",
+    "Ai/LangChain/LangChain-mathod",
+    "Ai/LangChain",
+    "정리 필요",
+    "Pasted image 20250529141925.png",
+    "LLM_Evolutionary_Tree.png",
     "Pasted image 20251011044642.png",
     "src/Pasted image 20250401012309.png",
     "src/Pasted image 20250303182508.png",
     "src/Pasted image 20250303180433.png",
-    "src/Pasted image 20250303175851.png",
-    "Pasted image 20250529141925.png",
-    "LLM_Evolutionary_Tree.png"
+    "src/Pasted image 20250303175851.png"
   ]
 }
