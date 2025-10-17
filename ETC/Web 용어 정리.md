@@ -1,0 +1,6 @@
+CSR
+SSR
+SSG
+ISR
+SEO
+gRPC
