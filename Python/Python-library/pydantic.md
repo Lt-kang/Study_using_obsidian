@@ -96,10 +96,11 @@ try:
 except ValueError as e:
     print(e)
 ```
+
 ___
 
 ## json schema와 예제 정의
-* pydantic은 자동으로 json schema를 생성하여 api 문사화를 도움.
+* pydantic은 자동으로 json schema를 생성하여 api 문서화를 도움.
 * `Field`를 사용하여 필드에 대한 예제를 정의함.
 
 ```
