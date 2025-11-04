@@ -1,5 +1,5 @@
 # Abstract
-기존의 Sequence transduction model들은 encoder-decoder를 포함하는 복잡한 순환신경망([[RNN]]) 혹은 합성곱 신경망([[CNN]])에 기반을 두고 있습니다.
+기존의 Sequence transduction model들은 encoder-decoder를 포함하는 복잡한 순환신경망([[Ai/Model/RNN]]) 혹은 합성곱 신경망([[CNN]])에 기반을 두고 있습니다.
 가장 성능이 좋은 모델 또한 encoder와 decoder를 [[attention mechanism]]으로 연결하기도 합니다.
 
 해당 논문에서는 순환 구조, 합성곱을 완전히 제거한 attention 메커니즘만을 기반으로 하는 모델인 Transformer를 제안합니다.
@@ -13,7 +13,7 @@ WMT 2014 영어-프랑스어 번역 과제에서는 단일 모델 기준 [[BLEU]
 
 
 # 1. Introduction
-[[RNN]], [[LSTM]], [[GRU]] 등의 언어 모델링과 기계 번역(Seq2Seq)과 같은 시퀀스 모델링 및 변환 문제에서 SOTA 모델에 달성하였습니다.
+[[Ai/Model/RNN]], [[Ai/Model/LSTM]], [[Ai/Model/GRU]] 등의 언어 모델링과 기계 번역(Seq2Seq)과 같은 시퀀스 모델링 및 변환 문제에서 SOTA 모델에 달성하였습니다.
 이후 수많은 연구들이 순환 언어 모델과 encoder-decoder 구조의 한계를 뛰어넘기 위해 노력해 왔습니다.
 
 순환 모델은 본질적으로 순차적인 (연산) 특성 때문에, 학습 예제 내에서 **병렬화가 어렵고**, 시퀀스가 길어질수록 **메모리 제약**으로 인해 예제 간 batch size가 제한됩니다. 최근 연구에서는 연산 분해 기법과 조건부 연산을 통해 계산 효율성을 크게 높이고, 후자의 경우 성능도 개선했습니다.
