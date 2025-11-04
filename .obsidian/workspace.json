@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ai/NLP/Embedding_layer/Embedding_layer.md",
+                "file": "Ai/LLM/LLM Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Embedding_layer"
+              "title": "LLM Flow"
             }
           }
         ]
@@ -166,6 +166,8 @@
   },
   "active": "0dc2f9ae4b4be899",
   "lastOpenFiles": [
+    "Ai/NLP/Embedding_layer/Embedding_layer.md",
+    "Ai/LLM/LLM Flow.md",
     "Ai/NLP/Embedding_layer/FastText.md",
     "Ai/NLP/Embedding_layer/GloVe.md",
     "Ai/NLP/Embedding_layer/n-gram.md",
@@ -184,7 +186,6 @@
     "Ai/NLP/Untitled 1.md",
     "Ai/NLP/NLP_processing.md",
     "Ai/NLP/Tokenizer/Byte-Pair Encoding.md",
-    "Ai/NLP/Embedding_layer/Embedding_layer.md",
     "Ai/LLM/LLM_NLP_preprocessing_compare.md",
     "Ai/LLM/LLaMa_preprocessing_strategy.md",
     "Ai/NLP/Tokenizer/Tokenizer_list.md",
@@ -196,7 +197,6 @@
     "Ai/LLM/GloVe.md",
     "Ai/LLM/Embedding.md",
     "Ai/LLM/Untitled",
-    "Ai/LLM/Word2Vec.md",
     "src/LLM_Evolutionary_Tree.png",
     "src/Pasted image 20251011044642.png",
     "src/Pasted image 20250529141925.png",
