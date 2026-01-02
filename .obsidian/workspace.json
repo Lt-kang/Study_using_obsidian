@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9a300766f92c7cc6",
+        "id": "d64f2e4ec0d511f9",
         "type": "tabs",
         "children": [
           {
-            "id": "b1c4b45f5605e9e8",
+            "id": "b584d06f94115be7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Statistics_graph/introduction.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "introduction"
             }
           }
         ]
@@ -174,8 +178,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1c4b45f5605e9e8",
+  "active": "b584d06f94115be7",
   "lastOpenFiles": [
+    "Statistics_graph/kaggle tip.md",
+    "Statistics_graph/graph_selection.md",
+    "Statistics_graph/introduction.md",
     "prk3_temp2.md",
     "src/Pasted image 20251229133200.png",
     "src/Pasted image 20251226113519.png",
@@ -217,8 +224,6 @@
     "optics/code_with_python",
     "Ai/NLP/Embedding_layer/Embedding_layer.md",
     "Ai/NLP/Embedding_layer/FastText.md",
-    "Ai/NLP/Embedding_layer/GloVe.md",
-    "Ai/NLP/Embedding_layer/n-gram.md",
     "src/LLM_Evolutionary_Tree.png",
     "src/Pasted image 20251011044642.png"
   ]
