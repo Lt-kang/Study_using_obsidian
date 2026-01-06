@@ -23,7 +23,6 @@
 		- 포인트가 찍힌 정확한 시간
 		- 그 시점의 자세 변화(각속도)
 
-
 # LiDAR의 데이터 기본 구조 (Point Cloud)
 - LiDAR 데이터는 보통 Point Cloud(PCD) 형태로 표현
 - pcd가 가진 정보
@@ -38,10 +37,22 @@
 - 포인트 밀도가 거리, 각도에 따라 다름.
 
 # LiDAR 데이터의 좌표계 특성
+- 기본적으로 센서 기준 좌표계
+- 원점: LiDAR 센서 위치
+- x, y, z 방향: 제조사마다 다름
 
 # LiDAR 데이터의 물리적 한계
+- 완벽한 LiDAR는 없음
+	- noise 존재
+	- 유리/검은 물체 -> intensity issue
+	- rain/flog -> ghost point
+	- 지면/물웅덩이 -> multi-path reflection
 
 # LiDAR 데이터의 표현 방식
+- Raw Point Cloud
+- BEV(Bird's Eye View)
+- Range Image (spherical projection)
+- Voxel Grid
 
 
 # pcd 데이터 전처리
