@@ -27,7 +27,7 @@ index.tsx
 
 - features는 보통 `입력 > 처리 > 결과`로 완결된다.
 - files?.IMAGES
-	- ?는 옵셔널 체이닝
+	- `?.`는 옵셔널 체이닝
 	- files가 null 이거나 undefined이면 에러를 내지 말고 그냥 undefined로 반환
 	- 읽기 전용임.
 		- `const files?.IAMGES = ...` 이런거 불가능
