@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FE_for_company/ts_type.md",
+                "file": "paper/TransFusion_LiDAR/개요.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ts_type"
+              "title": "개요"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0282adc36c9396d5",
@@ -180,12 +181,10 @@
   },
   "active": "b584d06f94115be7",
   "lastOpenFiles": [
-    "FE_for_company/react_ts 공부.md",
     "FE_for_company/ts_type.md",
-    "ETC/ai pipeline framework.md",
-    "ETC/paper_review_template.md",
-    "Temp.md",
     "FE_for_company/react hook.md",
+    "ETC/paper_review_template.md",
+    "FE_for_company/react_ts 공부.md",
     "paper/TransFusion_LiDAR/개요.md",
     "paper/TransFusion_LiDAR",
     "web기획 템플릿.md",
@@ -202,8 +201,10 @@
     "train_with_torch",
     "optical_domain/model_paper/PointPillars.md",
     "optical_domain/model_paper/Datasets에 대해서.md",
+    "ETC/ai pipeline framework.md",
     "desperated/react 템플릿.md",
     "README.md",
+    "Temp.md",
     "desperated/Web/3.etc/(작성중)Search-Engine-Optimization.md",
     "desperated/Web/Web.md",
     "desperated/Web/temp.md",
